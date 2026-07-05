@@ -1,4 +1,4 @@
 this is my file 2 for git learning
 adding more content to file 2.
 made more even more bug changes.
-
+making chnnages here as well so that it si fun to resolve merges
