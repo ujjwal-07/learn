@@ -1,4 +1,1 @@
-this is my file 2 for git learning
-adding more content to file 2.
-fixed another bug.
-this is great way to learn merge conflicts so that you'll getre bettert in this 
+this file was in need of a lot of changes and fortunelty iii've made those changes
